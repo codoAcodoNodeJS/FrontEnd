@@ -371,10 +371,10 @@ footer{
     }
     .footer_left {
         min-width: 130px;
-        padding-right: 10px;
+        /* padding-right: 10px; */
     }
     .footer_left img{
-        width: 150px;
+        width: 120px;
     }
     .logo1_below{
         padding-top: 30px;
